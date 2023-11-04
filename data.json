@@ -1,0 +1,39 @@
+[
+  {
+    "model": "catalog.category",
+    "pk": 1,
+    "fields": {
+      "category_name": "Pad",
+      "discription": ""
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 2,
+    "fields": {
+      "category_name": "Desctop",
+      "discription": ""
+    }
+  },
+  {
+    "model": "catalog.category",
+    "pk": 3,
+    "fields": {
+      "category_name": "Notebook",
+      "discription": ""
+    }
+  },
+  {
+    "model": "catalog.product",
+    "pk": 1,
+    "fields": {
+      "name": "Oisters",
+      "category": 1,
+      "discription": "",
+      "photo": "",
+      "price": 2000
+
+    }
+  }
+
+]
